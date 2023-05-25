@@ -17,11 +17,13 @@ na imagem do guadro
           <div id="nome" style="color:black">
                carrinho feio 
             <div>
-              <h1> bora estudar  kkk</h1>
+              <h1> bora estudar junior kkk</h1>
               <p> bora <em>vazer</em> um texto
               </p>
               <p> esse e um novo palavra 
-                <em>link </em>
+                  <em>
+                      <a href="link">link</a>
+                          </em>
               </p>
               <a href="https://pt.wikipedia.org/wiki/Palavra">palavra</a>
               <p> quebra de linha <br/> corra</p>
